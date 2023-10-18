@@ -1,0 +1,22 @@
+{
+  "name": "samplenodejsproject",
+  "version": "1.0.0",
+  "description": "this is to demostrate sample nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeepkumar-b/samplenodejsproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeepkumar-b/samplenodejsproject/issues"
+  },
+  "homepage": "https://github.com/pradeepkumar-b/samplenodejsproject#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
